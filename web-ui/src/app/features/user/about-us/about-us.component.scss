@@ -1,0 +1,14 @@
+.main-contactus-container {
+    width: 100%;
+    height: 400px;
+}
+
+.inside-contactus-container {
+    margin-left: 200px;
+}
+
+.contactus-p {
+    &:hover {
+        text-decoration: underline;
+    }
+}
